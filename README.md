@@ -17,9 +17,11 @@ Mohsin Compressor is a user-friendly, cross-platform tool for compressing and re
    git clone https://github.com/D4rkSynt4x/img_compressor.git
    cd img-comp
 
-## Install dependencies
-   ```bash
-  pip install -r requirements.txt
+## Install Dependencies
+Run the following command to install the required dependencies:
+```bash
+pip install -r requirements.txt
+
 
 
 ## Run the script
