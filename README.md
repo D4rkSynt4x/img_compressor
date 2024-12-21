@@ -15,14 +15,16 @@ Mohsin Compressor is a user-friendly, cross-platform tool for compressing and re
 1. Clone this repository:
    ```bash
    git clone https://github.com/D4rkSynt4x/img_compressor.git
-   cd MohsinCompressor
+   cd img-comp
 
 ## Install dependencies
- - pip install -r requirements.txt
+```bash
+  pip install -r requirements.txt
 
 
 ## Run the script
- - python MohsinCompressor.py
+```bash
+  python MohsinCompressor.py
 
 ## License
  -This project is licensed under the MIT License. See the LICENSE file for details.
