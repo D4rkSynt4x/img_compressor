@@ -18,12 +18,12 @@ Mohsin Compressor is a user-friendly, cross-platform tool for compressing and re
    cd img-comp
 
 ## Install dependencies
-```bash
+   ```bash
   pip install -r requirements.txt
 
 
 ## Run the script
-```bash
+   ```bash
   python MohsinCompressor.py
 
 ## License
