@@ -18,6 +18,7 @@ MohsinCompressor is a user-friendly, cross-platform tool for compressing and res
 1. Clone this repository:
    ```bash
    git clone https://github.com/D4rkSynt4x/img_compressor.git
+   cd img_compressor
    cd img-comp
 
  ## Install Dependencies
